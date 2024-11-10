@@ -32,15 +32,22 @@ cargo run
 
 ## Showcase
 
-|              Midnight              |                Forest                |              Ocean               |              Strawberry              |
-| :--------------------------------: | :----------------------------------: | :------------------------------: | :----------------------------------: |
-|  ![midnight](images/midnight.jpg)  |     ![forest](images/forest.jpg)     |    ![ocean](images/ocean.jpg)    | ![strawberry](images/strawberry.jpg) |
-|             Bumblebee              |               Crimson                |               Aqua               |               Lavender               |
-| ![bumblebee](images/bumblebee.jpg) |    ![crimson](images/crimson.jpg)    |     ![aqua](images/aqua.jpg)     |   ![lavender](images/lavender.jpg)   |
-|              Emerald               |                Cherry                |             Twilight             |                Flame                 |
-|   ![emerald](images/emerald.jpg)   |     ![cherry](images/cherry.jpg)     | ![twilight](images/twilight.jpg) |      ![flame](images/flame.jpg)      |
-|                Moss                |              Catppuccin              |             Horizon              |                Auto\*                |
-|      ![moss](images/moss.jpg)      | ![catppuccin](images/catppuccin.jpg) |  ![horizon](images/horizon.jpg)  |       ![auto](images/auto.jpg)       |
+|              Midnight              |                Forest                |
+| :--------------------------------: | :----------------------------------: |
+|  ![midnight](images/midnight.jpg)  |     ![forest](images/forest.jpg)     |
+|               Ocean                |              Strawberry              |
+|     ![ocean](images/ocean.jpg)     | ![strawberry](images/strawberry.jpg) |
+|             Bumblebee              |               Crimson                |
+| ![bumblebee](images/bumblebee.jpg) |    ![crimson](images/crimson.jpg)    |
+|                Aqua                |               Lavender               |
+|      ![aqua](images/aqua.jpg)      |   ![lavender](images/lavender.jpg)   |
+|              Emerald               |                Cherry                |
+|   ![emerald](images/emerald.jpg)   |     ![cherry](images/cherry.jpg)     |
+|              Twilight              |                Flame                 |
+|  ![twilight](images/twilight.jpg)  |      ![flame](images/flame.jpg)      |
+|                Moss                |              Catppuccin              |
+|      ![moss](images/moss.jpg)      | ![catppuccin](images/catppuccin.jpg) |
+|              Horizon               |                Auto\*                |
+|   ![horizon](images/horizon.jpg)   |       ![auto](images/auto.jpg)       |
 
-> [!NOTE]
-> \*Auto theme will look different for others, since it's based on profile picture.
+> [!NOTE] > \*Auto theme will look different for others, since it's based on profile picture.
