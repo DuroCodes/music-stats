@@ -2,7 +2,7 @@
 
 > I need to come up with a more creative name, probably.
 
-![demo](demo.png)
+![demo](images/auto.jpg)
 
 A little terminal app that displays your top albums over some time period (thanks to [Last.fm](https://www.last.fm/) for their API).
 
@@ -29,3 +29,18 @@ git clone https://github.com/durocodes/music-stats
 cd music-stats
 cargo run
 ```
+
+## Showcase
+
+|              Midnight              |                Forest                |              Ocean               |              Strawberry              |
+| :--------------------------------: | :----------------------------------: | :------------------------------: | :----------------------------------: |
+|  ![midnight](images/midnight.jpg)  |     ![forest](images/forest.jpg)     |    ![ocean](images/ocean.jpg)    | ![strawberry](images/strawberry.jpg) |
+|             Bumblebee              |               Crimson                |               Aqua               |               Lavender               |
+| ![bumblebee](images/bumblebee.jpg) |    ![crimson](images/crimson.jpg)    |     ![aqua](images/aqua.jpg)     |   ![lavender](images/lavender.jpg)   |
+|              Emerald               |                Cherry                |             Twilight             |                Flame                 |
+|   ![emerald](images/emerald.jpg)   |     ![cherry](images/cherry.jpg)     | ![twilight](images/twilight.jpg) |      ![flame](images/flame.jpg)      |
+|                Moss                |              Catppuccin              |             Horizon              |                Auto\*                |
+|      ![moss](images/moss.jpg)      | ![catppuccin](images/catppuccin.jpg) |  ![horizon](images/horizon.jpg)  |       ![auto](images/auto.jpg)       |
+
+> [!NOTE]
+> \*Auto theme will look different for others, since it's based on profile picture.

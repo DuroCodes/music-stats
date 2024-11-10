@@ -44,7 +44,7 @@ async fn main() {
         .option(DemandOption::new("Bumblebee"))
         .option(DemandOption::new("Crimson"))
         .option(DemandOption::new("Aqua"))
-        .option(DemandOption::new("Lavendar"))
+        .option(DemandOption::new("Lavender"))
         .option(DemandOption::new("Emerald"))
         .option(DemandOption::new("Cherry"))
         .option(DemandOption::new("Twilight"))
