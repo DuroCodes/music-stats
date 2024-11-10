@@ -1,24 +1,11 @@
-# music_stats
+# music stats
 
-[![Package Version](https://img.shields.io/hexpm/v/music_stats)](https://hex.pm/packages/music_stats)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/music_stats/)
+get your last.fm music stats in a nice image:
 
-```sh
-gleam add music_stats@1
-```
-```gleam
-import music_stats
+![example](demo.png)
 
-pub fn main() {
-  // TODO: An example of the project in use
-}
-```
+uses [ImageMagick](https://imagemagick.org/) for image manipulation and [last.fm](https://www.last.fm/) for music data
 
-Further documentation can be found at <https://hexdocs.pm/music_stats>.
+made with (very bad) [gleam](https://gleam.run/)
 
-## Development
-
-```sh
-gleam run   # Run the project
-gleam test  # Run the tests
-```
+probably going to rewrite it in [go](https://go.dev/) or [rust](https://www.rust-lang.org/) soon
