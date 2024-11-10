@@ -50,4 +50,5 @@ cargo run
 |              Horizon               |                Auto\*                |
 |   ![horizon](images/horizon.jpg)   |       ![auto](images/auto.jpg)       |
 
-> [!NOTE] > \*Auto theme will look different for others, since it's based on profile picture.
+> [!NOTE]
+> \*Auto theme will look different for others, since it's based on profile picture.
